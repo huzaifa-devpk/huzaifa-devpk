@@ -36,10 +36,10 @@
   <a href="mailto:huzaifa.tariq.1302@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-huzaifabintariq__1302-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: huzaifabintariq_1302" />
+  <a href="https://discordapp.com/users/1538828327278739467">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ---
@@ -59,34 +59,8 @@
 
 ## Languages and Tools
 
-### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python" alt="Languages" />
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Web Development" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
-</p>
-
-### Cloud and DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" alt="Cloud and DevOps" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,php,mysql,aws,gcp,docker,git,github,vscode,postman" alt="Languages and Tools" />
 </p>
 
 ---
@@ -178,14 +152,14 @@
   <a href="https://facebook.com/huzaifa.bin.tariq.1302">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</p>
 
-<p align="center">
   <a href="mailto:huzaifa.tariq.1302@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <img src="https://img.shields.io/badge/Discord-huzaifabintariq__1302-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: huzaifabintariq_1302" />
+  <a href="https://discordapp.com/users/1538828327278739467">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ---
