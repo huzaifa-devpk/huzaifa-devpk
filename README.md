@@ -1,48 +1,80 @@
-<h1 align="center">Hi , I'm Huzaifa Bin Tariq</h1>
-<h3 align="center">Frontend Developer | Backend Learner | Computer Science Student @ SZABIST Islamabad | Modeling Enthusiast | Calisthenics Athlete</h3>
+<h1 align="center">Hi 👋, I'm Huzaifa Bin Tariq</h1>
+<h3 align="center">Frontend Developer | Backend Learner | CS Student @ SZABIST | Calisthenics Athlete</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa-devpk&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa-devpk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifa-devpk" alt="huzaifa-devpk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/huzaifa_x_tariq" target="blank"><img src="https://img.shields.io/twitter/follow/huzaifa_x_tariq?logo=twitter&style=for-the-badge" alt="huzaifa_x_tariq" /></a> </p>
-
-- I’m currently working on **Ecommerce frontened project**
-
-- I’m currently learning **AWS Cloud, Docker, CI/CD & DevOps**
-
-- I’m looking to collaborate on **Open-source projects in Full Stack, Cloud & AI**
-
-- I’m looking for help with **Cloud deployments, DevOps practices & open-source contributions**
-
-- All of my projects are available at [https://github.com/huzaifa-devpk?tab=repositories](https://github.com/huzaifa-devpk?tab=repositories)
-
-- I weekly write articles on [https://dev.to/huzaifa_1302](https://dev.to/huzaifa_1302)
-
-- How to reach me **huzaifa.tariq.1302@gmail.com**
-
-- Hobbies **Calisthenice Athlete**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/huzaifa_1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="huzaifa_1302" height="30" width="40" /></a>
-<a href="https://twitter.com/huzaifa_x_tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzaifa_x_tariq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/huzaifabintariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifabintariq" height="30" width="40" /></a>
-<a href="https://kaggle.com/huzaifa1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="huzaifa1302" height="30" width="40" /></a>
-<a href="https://fb.com/huzaifa.bin.tariq.1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huzaifa.bin.tariq.1302" height="30" width="40" /></a>
-<a href="https://instagram.com/zaifisthenics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaifisthenics" height="30" width="40" /></a>
-<a href="https://discord.gg/huzaifabintariq_1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="huzaifabintariq_1302" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huzaifa-devpk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="huzaifa-devpk" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa-devpk&show_icons=true&locale=en&layout=compact" alt="huzaifa-devpk" /></p>
+<p align="center">
+  <a href="https://dev.to/huzaifa_1302" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://linkedin.com/in/huzaifabintariq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/huzaifa_x_tariq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/zaifisthenics" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:huzaifa.tariq.1302@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifa-devpk&show_icons=true&locale=en" alt="huzaifa-devpk" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-devpk&" alt="huzaifa-devpk" /></p>
+### 🚀 About Me
+
+- 🔭 **Currently Building:** Full-Stack E-commerce Platform Frontends
+- 📚 **Currently Learning:** AWS Cloud Services, Docker, CI/CD Pipelines & DevOps Fundamentals
+- 🤝 **Looking to Collaborate:** Open-source projects in Full-Stack, Cloud Architecture & AI
+- 🎯 **Goals:** Master cloud deployments, backend microservices, and scale open-source contributions
+- ✍️ **Writing:** Technical blogs weekly on [DEV.to](https://dev.to/huzaifa_1302)
+- 🏋️ **Beyond Code:** Calisthenics & Bodyweight Strength Training
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,mysql,aws,gcp,git,github,vscode,ps" alt="Languages and Tools" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifa-devpk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Huzaifa's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-devpk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-devpk&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa-devpk&theme=tokyonight" alt="Contribution Activity Chart" width="100%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=huzaifa-devpk&theme=tokyonight&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/huzaifa-devpk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-devpk&repo=huzaifa-devpk&theme=tokyonight&hide_border=true" alt="Featured Repo" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore all repositories and code contributions at <a href="https://github.com/huzaifa-devpk?tab=repositories">github.com/huzaifa-devpk</a></i>
+</p>
