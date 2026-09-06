@@ -1,6 +1,6 @@
 <!-- ============================================================ -->
 
-<!--                  HUZAI FA BIN TARIQ — PROFILE README          -->
+<!--                  HUZAIFA BIN TARIQ — PROFILE README           -->
 
 <!-- ============================================================ -->
 
@@ -35,9 +35,17 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
+  <a href="https://www.facebook.com/huzaifa.bin.tariq.1302">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
   <a href="mailto:huzaifa.tariq.1302@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-huzaifabintariq__1302-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </p>
 
 ---
@@ -47,6 +55,7 @@
 ```yaml
 name: Huzaifa Bin Tariq
 located_in: Pakistan 🇵🇰
+
 education:
   - Computer Science Student @ SZABIST
 
@@ -61,7 +70,6 @@ currently_learning:
   - Google Cloud Platform
   - Docker
   - CI/CD
-  - Backend Architecture
 
 interests:
   - Open Source
@@ -179,7 +187,7 @@ fun_fact: "I debug my code longer than I spend writing it 😅"
 
 ---
 
-# 📊 GitHub Contribution Summary
+# 📊 Contribution Summary
 
 <p align="center">
 
@@ -221,71 +229,14 @@ fun_fact: "I debug my code longer than I spend writing it 😅"
 
 ---
 
-# 📌 Featured Projects
-
-<!-- Replace repository names below with your best repositories -->
+# 🐍 Contribution Snake
 
 <p align="center">
-
-  <a href="https://github.com/huzaifa-devpk/MovieDB">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-devpk&repo=MovieDB&theme=tokyonight&hide_border=true"
-      alt="MovieDB"
-    />
-  </a>
-
-  <a href="https://github.com/huzaifa-devpk/Netflix-Clone">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-devpk&repo=Netflix-Clone&theme=tokyonight&hide_border=true"
-      alt="Netflix Clone"
-    />
-  </a>
-
+  <img
+    src="https://raw.githubusercontent.com/huzaifa-devpk/huzaifa-devpk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
-<p align="center">
-
-  <a href="https://github.com/huzaifa-devpk/Amazon-Clone">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-devpk&repo=Amazon-Clone&theme=tokyonight&hide_border=true"
-      alt="Amazon Clone"
-    />
-  </a>
-
-  <a href="https://github.com/huzaifa-devpk">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-devpk&repo=huzaifa-devpk&theme=tokyonight&hide_border=true"
-      alt="Huzaifa's Profile Repository"
-    />
-  </a>
-
-</p>
-
----
-
-# 🌱 My Developer Journey
-
-```text
-Frontend Development
-        │
-        ▼
-JavaScript & Modern Web Development
-        │
-        ▼
-Backend Development
-        │
-        ▼
-Databases & APIs
-        │
-        ▼
-Cloud Computing
-        │
-        ▼
-Docker & DevOps
-        │
-        ▼
-Full-Stack Engineering 🚀
-```
 
 ---
 
@@ -305,6 +256,16 @@ Full-Stack Engineering 🚀
     <img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x" />
   </a>
 
+  <a href="https://www.facebook.com/huzaifa.bin.tariq.1302">
+    <img src="https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Discord-huzaifabintariq__1302-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
 </p>
 
 ---
@@ -316,12 +277,8 @@ Full-Stack Engineering 🚀
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=huzaifa-devpk&label=Thanks%20for%20visiting!&color=0e75b6&style=flat-square" />
-
+  <img src="https://komarev.com/ghpvc/?username=huzaifa-devpk&label=Thanks%20for%20visiting!&color=0e75b6&style=flat-square" />
 </p>
-
----
 
 <p align="center">
   ⭐ From <a href="https://github.com/huzaifa-devpk">Huzaifa Bin Tariq</a>
